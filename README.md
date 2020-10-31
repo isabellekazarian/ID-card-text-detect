@@ -1,5 +1,5 @@
 # ID Card Crop & Text Detection
-*This project is a modification of [this repository](https://github.com/Red-Eyed/ID-Card-Segmentation)*
+*This project is a modification of [this repository](https://github.com/Red-Eyed/ID-Card-Segmentation). See LICENSE for license info.*
 
 This script takes an input image of an ID card, crops the card to size, and detects text on the card.
 
